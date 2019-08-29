@@ -13,14 +13,14 @@ b. use HumanPoseHandler
 **Usage:**
 
 
-![https://imgur.com/yuH8IwG](https://imgur.com/yuH8IwG)
+![https://imgur.com/yuH8IwG.jpg](https://imgur.com/yuH8IwG.jpg)
 
 or
 
-![https://imgur.com/BLYsEIZ](https://imgur.com/BLYsEIZ)
+![https://imgur.com/BLYsEIZ.jpg](https://imgur.com/BLYsEIZ.jpg)
 
 
 **Result:**
 
 
-![https://imgur.com/osXdz8Y](https://imgur.com/osXdz8Y)
+![https://imgur.com/osXdz8Y.gif](https://imgur.com/osXdz8Y.gif)
